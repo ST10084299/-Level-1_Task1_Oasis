@@ -1,0 +1,58 @@
+C:\Users\razia\source\repos\Landing Page\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razia\source\repos\Landing Page\bin\Debug\net6.0\appsettings.json
+C:\Users\razia\source\repos\Landing Page\bin\Debug\net6.0\Landing Page.staticwebassets.runtime.json
+C:\Users\razia\source\repos\Landing Page\bin\Debug\net6.0\Landing Page.exe
+C:\Users\razia\source\repos\Landing Page\bin\Debug\net6.0\Landing Page.deps.json
+C:\Users\razia\source\repos\Landing Page\bin\Debug\net6.0\Landing Page.runtimeconfig.json
+C:\Users\razia\source\repos\Landing Page\bin\Debug\net6.0\Landing Page.dll
+C:\Users\razia\source\repos\Landing Page\bin\Debug\net6.0\Landing Page.pdb
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.csproj.AssemblyReference.cache
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.AssemblyInfoInputs.cache
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.AssemblyInfo.cs
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.csproj.CoreCompileInputs.cache
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.RazorAssemblyInfo.cache
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.RazorAssemblyInfo.cs
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\staticwebassets\msbuild.Landing Page.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\staticwebassets\msbuild.build.Landing Page.props
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Landing Page.props
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Landing Page.props
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\scopedcss\bundle\Landing Page.styles.css
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.dll
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\refint\Landing Page.dll
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.pdb
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\Landing Page.genruntimeconfig.cache
+C:\Users\razia\source\repos\Landing Page\obj\Debug\net6.0\ref\Landing Page.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\bin\Debug\net6.0\appsettings.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\bin\Debug\net6.0\Landing Page.staticwebassets.runtime.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\bin\Debug\net6.0\Landing Page.exe
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\bin\Debug\net6.0\Landing Page.deps.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\bin\Debug\net6.0\Landing Page.runtimeconfig.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\bin\Debug\net6.0\Landing Page.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\bin\Debug\net6.0\Landing Page.pdb
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.csproj.AssemblyReference.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.AssemblyInfoInputs.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.AssemblyInfo.cs
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.csproj.CoreCompileInputs.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.RazorAssemblyInfo.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.RazorAssemblyInfo.cs
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\staticwebassets\msbuild.Landing Page.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\staticwebassets\msbuild.build.Landing Page.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Landing Page.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Landing Page.props
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\scopedcss\bundle\Landing Page.styles.css
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\refint\Landing Page.dll
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.pdb
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\Landing Page.genruntimeconfig.cache
+C:\Users\razia\OneDrive\Documents\OASIS Internship\Level 1\Task1_Landing page\Landing Page\obj\Debug\net6.0\ref\Landing Page.dll
